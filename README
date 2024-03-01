@@ -1,25 +1,29 @@
+<!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
+
 # AND101 Project 2 - Kotlin Debug-a-thon
 
-Submitted by: **Dhruv Tripathi**
+Submitted by: **Your Name Here**
 
-Time spent: **1.5** hours spent in total
+Time spent: **X** hours spent in total
 
 ## Summary
 
-**Android Debugathon** is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes! 
+**Name of your app** is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
 
-If I had to describe this project in three (3) emojis, they would be: 😎😂😉
+If I had to describe this project in three (3) emojis, they would be: **emojis here**
 
 ## Application Features
 
+<!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
+
 The following REQUIRED features are completed:
 
-- [x] 👋 Debug and fix navigation to Hello World activity
-- [x] 4️⃣ Debug and fix Number Sum (2 + 2) activity
-- [x] 📅 Debug and fix Current Day activity 
-- [x] 🌈 Debug and fix behavior of Random Color activity
-- [x] 🗒️ Debug and fix Print List activity
-- [x] 💯 Debug and fix Favorite Number activity
+- [ ] 👋 Debug and fix navigation to Hello World activity
+- [ ] 4️⃣ Debug and fix Number Sum (2 + 2) activity
+- [ ] 📅 Debug and fix Current Day activity 
+- [ ] 🌈 Debug and fix behavior of Random Color activity
+- [ ] 🗒️ Debug and fix Print List activity
+- [ ] 💯 Debug and fix Favorite Number activity
 
 The following STRETCH features are implemented:
 
@@ -33,9 +37,9 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
 
-
-GIF created with **ScreenToGif**
+GIF created with **your chosen GIF tool**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
@@ -48,7 +52,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **2024** **Dhruv Tripathi**
+Copyright **yyyy** **your name**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
